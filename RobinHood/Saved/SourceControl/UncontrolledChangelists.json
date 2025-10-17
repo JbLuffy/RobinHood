@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
-				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Camaras2.umap"
+				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Camaras2.umap",
+				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Camaras1.umap",
+				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Escenario1.umap",
+				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Escenario2.umap",
+				"C:/Users/Jaime/Documents/GitHub/RobinHood/RobinHood/Content/Main.umap"
 			]
 		}
 	]
