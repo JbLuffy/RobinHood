@@ -1,0 +1,29 @@
+[1031/100835.808:ERROR:entry_impl.cc(1075)] No file for 8000065a
+[1031/100836.891:ERROR:entry_impl.cc(1075)] No file for 8000065b
+[1031/100836.891:ERROR:entry_impl.cc(1075)] No file for 8000065c
+[1031/100836.891:ERROR:entry_impl.cc(1075)] No file for 80000664
+[1031/100836.891:ERROR:entry_impl.cc(1075)] No file for 8000065f
+[1031/100836.892:ERROR:entry_impl.cc(1075)] No file for 80000660
+[1031/100836.908:ERROR:entry_impl.cc(1075)] No file for 8000065d
+[1031/100836.908:ERROR:entry_impl.cc(1075)] No file for 80000663
+[1031/100836.909:ERROR:entry_impl.cc(1075)] No file for 80000662
+[1031/100836.909:ERROR:entry_impl.cc(1075)] No file for 80000665
+[1031/100836.909:ERROR:entry_impl.cc(1075)] No file for 80000661
+[1031/100836.909:ERROR:entry_impl.cc(1075)] No file for 8000065e
+[1031/101032.237:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1031/102436.186:ERROR:entry_impl.cc(1075)] No file for 80000652
+[1031/102436.186:ERROR:entry_impl.cc(1075)] No file for 80000650
+[1031/102436.186:ERROR:entry_impl.cc(1075)] No file for 80000653
+[1031/102436.194:ERROR:entry_impl.cc(1075)] No file for 80000651
+[1031/102436.194:ERROR:entry_impl.cc(1075)] No file for 8000064f
+[1031/102818.462:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1031/102818.578:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1031/102818.766:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
